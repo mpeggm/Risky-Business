@@ -1,2 +1,3 @@
 # Risky-Business
-capture and move through work on risk management training, tools
+To capture and move through work on risk management training, tools
+Set up column/projects
